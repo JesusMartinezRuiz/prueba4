@@ -1,5 +1,6 @@
 logs/*
-!logs/[Pp]ublic.txt
+!logs/public.txt
+!logs/Public (2).txt
 !a.com
 *.com
 privado/
