@@ -1,6 +1,7 @@
+assets/*
 logs/*
 !logs/public.txt
-!logs/Public (2).txt
+!logs/Publics.txt
 !a.com
 *.com
 privado/
